@@ -1,0 +1,8 @@
+#create .env file 
+      PORT=4000
+      MONGO_DB_URL="yours mongodb url"
+      JWT_SECRCT_CODE="Sample data"
+  write above code
+
+#after clone or pulling the code setup above configrations and run 
+##npm install (or) npm i
